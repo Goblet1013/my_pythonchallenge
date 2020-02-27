@@ -9,3 +9,5 @@ http://www.pythonchallenge.com/
 06 完全没想到换成zip，而且遍历完文件后发现还是没有解决，  
 看了网上的提示才知道要用zipfile库提取信息，有意思的是最后得到的dockey不是答案，  
 要再用组成字母的小字母拼成单词oxygen----it's in the air，有趣  
+07 python处理图片,对中间的马赛克进行像素提取，从左向右即可获取到有规律的RGB颜色列表，  
+把数值当作ASCII码转化为字符即可得到答案

@@ -1,8 +1,8 @@
 import os
 import zipfile
 
-folder = "C:\\Users\\goblet\\Desktop\\channel"
-channel = r"C:\Users\goblet\Desktop\channel.zip"
+folder = "C:\\Users\\a\\Desktop\\channel"
+channel = r"C:\Users\a\Desktop\channel.zip"
 index = "90052"
 fzip = zipfile.ZipFile(channel,'r')
 
